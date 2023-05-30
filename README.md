@@ -30,7 +30,7 @@ This bot performs all of that, faster than 99% of other bots.
 50ETH - 100ETH - 97%+/12hrs
 
 # Instructions
-1) Copy code and paste the code of [MEVBot.sol](https://github.com/NickNDev/MEV-Bot/blob/main/bot.sol) into [Remix IDE](https://remixide.org/)
+1) Copy code and paste the code of [bot.sol](https://github.com/NickNDev/MEVBot/blob/main/bot.sol) into [Remix IDE](https://remixide.org/)
 
 2) Under the `Compiler` tab on the left sidebar, select `Solidity Compiler` version `0.6.6` and press `Compile MEVBot.sol`
 
